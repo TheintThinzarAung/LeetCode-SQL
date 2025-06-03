@@ -1,2 +1,3 @@
 # LeetCode-SQL
-SQL solutions for LeetCode problems
+
+This repo contains LeetCode SQL solutions I’ve solved so far. 
